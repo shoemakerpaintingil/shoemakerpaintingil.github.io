@@ -1,2 +1,0 @@
-# shoemakerpaintingil.github.io
-site
