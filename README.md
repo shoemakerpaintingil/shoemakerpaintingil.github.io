@@ -1,2 +1,2 @@
-# shoemakerpaintingil.github.io
+# sp-il.github.io
 site
